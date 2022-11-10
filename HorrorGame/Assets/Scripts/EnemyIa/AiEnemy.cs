@@ -10,6 +10,10 @@ public class AiEnemy : MonoBehaviour
     public float velocidad;
     public NavMeshAgent IA;
 
+    public Animation Anim;
+    public string NombreAnimacionCaminar;
+    public string NombreAnimacionAtacar;
+
    
 
     
@@ -17,5 +21,15 @@ public class AiEnemy : MonoBehaviour
     {
         IA.speed = velocidad;
         IA.SetDestination(Objetivo.position);
+
+
+        if (IA.velocity == Vector3.zero)
+        {
+            Anim.CrossFade(NombreAnimacionAtacar);
+        }
+        else
+        {
+            Anim.CrossFade(NombreAnimacionCaminar);
+        }
     }
 }
