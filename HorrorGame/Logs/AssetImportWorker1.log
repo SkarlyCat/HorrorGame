@@ -174,3 +174,9 @@ Received Import Request.
   path: Assets/Mapa/Piso/Piso_026.fbx
   artifactKey: Guid(163abe800ee744d49bbcb3d7bec83dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Mapa/Piso/Piso_026.fbx using Guid(163abe800ee744d49bbcb3d7bec83dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e561ac9e6fc81f3190e3eeb9f4f7d023') in 0.043902 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 799.996559 seconds.
+  path: Assets/Mapa/Piso/Piso_029.fbx
+  artifactKey: Guid(0df69a6c63577734c97405915fcf7276) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mapa/Piso/Piso_029.fbx using Guid(0df69a6c63577734c97405915fcf7276) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd23fbd87af83ba567b353e59314c7638') in 0.053117 seconds 
