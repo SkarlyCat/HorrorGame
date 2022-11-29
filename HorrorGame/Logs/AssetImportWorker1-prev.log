@@ -1,23 +1,23 @@
 Using pre-set license
-Built from '2021.3/staging' branch; Version is '2021.3.9f1 (ad3870b89536) revision 11352176'; Using compiler version '192829333'; Build Type 'Release'
-OS: 'Windows 11  (10.0.22000) 64bit CoreSingleLanguage' Language: 'es' Physical Memory: 8061 MB
+Built from '2021.3/staging' branch; Version is '2021.3.11f1 (0a5ca18544bf) revision 679073'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit CoreSingleLanguage' Language: 'es' Physical Memory: 8042 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
-D:\Editor Unity\2021.3.9f1\Editor\Unity.exe
+C:\Program Files\Unity\Hub\Editor\2021.3.11f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker1
 -projectPath
-D:/Carpetas de Git/HorrorGameProyect/HorrorGame/HorrorGame
+C:/Users/yoaks/Documents/GitHub/HorrorGame/HorrorGame
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-64276
-Successfully changed project path to: D:/Carpetas de Git/HorrorGameProyect/HorrorGame/HorrorGame
-D:/Carpetas de Git/HorrorGameProyect/HorrorGame/HorrorGame
+49937
+Successfully changed project path to: C:/Users/yoaks/Documents/GitHub/HorrorGame/HorrorGame
+C:/Users/yoaks/Documents/GitHub/HorrorGame/HorrorGame
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -47,108 +47,103 @@ D:/Carpetas de Git/HorrorGameProyect/HorrorGame/HorrorGame
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Refreshing native plugins compatible for Editor in 89.43 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 149.43 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Initialize engine version: 2021.3.9f1 (ad3870b89536)
-[Subsystems] Discovering subsystems at path D:/Editor Unity/2021.3.9f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/Carpetas de Git/HorrorGameProyect/HorrorGame/HorrorGame/Assets
+Initialize engine version: 2021.3.11f1 (0a5ca18544bf)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/yoaks/Documents/GitHub/HorrorGame/HorrorGame/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f15)
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f91)
     Vendor:   NVIDIA
-    VRAM:     5968 MB
-    Driver:   31.0.15.2698
+    VRAM:     3962 MB
+    Driver:   30.0.15.1278
 Initialize mono
-Mono path[0] = 'D:/Editor Unity/2021.3.9f1/Editor/Data/Managed'
-Mono path[1] = 'D:/Editor Unity/2021.3.9f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
-Mono config path = 'D:/Editor Unity/2021.3.9f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56460
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56220
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: D:/Editor Unity/2021.3.9f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: D:/Editor Unity/2021.3.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.354857 seconds.
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007976 seconds.
 Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 82.38 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 139.79 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.664 seconds
+- Completed reload, in  1.203 seconds
 Domain Reload Profiling:
-	ReloadAssembly (2665ms)
-		BeginReloadAssembly (1564ms)
+	ReloadAssembly (1203ms)
+		BeginReloadAssembly (186ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (648ms)
-			LoadAssemblies (1564ms)
+		EndReloadAssembly (802ms)
+			LoadAssemblies (182ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (106ms)
+			SetupTypeCache (179ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (30ms)
-			SetupLoadedEditorAssemblies (463ms)
+			RebuildScriptCaches (50ms)
+			SetupLoadedEditorAssemblies (488ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (8ms)
+				InitializePlatformSupportModulesInManaged (12ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (83ms)
-				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (146ms)
-				ProcessInitializeOnLoadMethodAttributes (226ms)
+				RefreshPlugins (140ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (253ms)
+				ProcessInitializeOnLoadMethodAttributes (81ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.006260 seconds.
+Registered in 0.028695 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Carpetas de Git\HorrorGameProyect\HorrorGame\HorrorGame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Carpetas de Git\HorrorGameProyect\HorrorGame\HorrorGame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.69 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.83 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.700 seconds
+- Completed reload, in  1.912 seconds
 Domain Reload Profiling:
-	ReloadAssembly (2702ms)
-		BeginReloadAssembly (165ms)
+	ReloadAssembly (1913ms)
+		BeginReloadAssembly (182ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
+			DisableScriptedObjects (10ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (22ms)
-		EndReloadAssembly (2211ms)
-			LoadAssemblies (1346ms)
+			CreateAndSetChildDomain (32ms)
+		EndReloadAssembly (1528ms)
+			LoadAssemblies (230ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (269ms)
+			SetupTypeCache (475ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (52ms)
-			SetupLoadedEditorAssemblies (563ms)
+			RebuildScriptCaches (82ms)
+			SetupLoadedEditorAssemblies (666ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
-				SetLoadedEditorAssemblies (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (80ms)
-				ProcessInitializeOnLoadAttributes (445ms)
-				ProcessInitializeOnLoadMethodAttributes (28ms)
-				AfterProcessingInitializeOnLoad (3ms)
+				BeforeProcessingInitializeOnLoad (151ms)
+				ProcessInitializeOnLoadAttributes (438ms)
+				ProcessInitializeOnLoadMethodAttributes (55ms)
+				AfterProcessingInitializeOnLoad (11ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (6ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.40 seconds
-Refreshing native plugins compatible for Editor in 0.89 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 1.36 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3422 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 27 unused Assets / (111.8 KB). Loaded Objects now: 3887.
-Memory consumption went from 120.5 MB to 120.4 MB.
-Total: 3.821700 ms (FindLiveObjects: 0.340300 ms CreateObjectMapping: 0.104000 ms MarkObjects: 3.231500 ms  DeleteObjects: 0.144700 ms)
+Unloading 25 unused Assets / (56.1 KB). Loaded Objects now: 3884.
+Memory consumption went from 119.8 MB to 119.8 MB.
+Total: 7.602600 ms (FindLiveObjects: 0.416400 ms CreateObjectMapping: 0.346900 ms MarkObjects: 6.678200 ms  DeleteObjects: 0.159200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -163,101 +158,55 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 1196691.966310 seconds.
-  path: Assets/Mapa/Paredes/Pared_027.fbx
-  artifactKey: Guid(9fbfd393c1336334eb26a273da362730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Mapa/Paredes/Pared_027.fbx using Guid(9fbfd393c1336334eb26a273da362730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbeadd9131900e96b8fba2b3dc683da0') in 0.425931 seconds 
+  Time since last request: 3986.222793 seconds.
+  path: Assets/Mapa/Piso/Piso_012.fbx
+  artifactKey: Guid(0679fff2e22f72345b999274b1e4bfdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mapa/Piso/Piso_012.fbx using Guid(0679fff2e22f72345b999274b1e4bfdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee3564448f6ccbda489f1997d9f77196') in 0.675135 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/Mapa/Paredes/Pared_015.fbx
-  artifactKey: Guid(d97abc8c99680924e9dd107453d9a15e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Mapa/Paredes/Pared_015.fbx using Guid(d97abc8c99680924e9dd107453d9a15e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9902414e8fd6babce018c68f58b6c210') in 0.053727 seconds 
+  Time since last request: 0.000039 seconds.
+  path: Assets/Mapa/Piso/Piso_022.fbx
+  artifactKey: Guid(cc46a3b81456d5444b04a94baaabf71a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mapa/Piso/Piso_022.fbx using Guid(cc46a3b81456d5444b04a94baaabf71a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95cf93d09fefeb68f7c7210758eb652e') in 0.062896 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Mapa/Piso/Piso_003.fbx
+  artifactKey: Guid(0b61282fddc8960409398bcb269ee5fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mapa/Piso/Piso_003.fbx using Guid(0b61282fddc8960409398bcb269ee5fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b56203438fb37161224cd43133af7043') in 0.054644 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Mapa/Piso/Piso_020.fbx
+  artifactKey: Guid(076a3b1532fbf1e4595ccf7187e2c0a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mapa/Piso/Piso_020.fbx using Guid(076a3b1532fbf1e4595ccf7187e2c0a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8f42f33804e81c8fe7aa40368c63220') in 0.061830 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000035 seconds.
-  path: Assets/Mapa/Paredes/Pared_006.fbx
-  artifactKey: Guid(529b143d88d7d534484f0b440522096b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Mapa/Paredes/Pared_006.fbx using Guid(529b143d88d7d534484f0b440522096b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '702b9619085beebe896aa523b5f25305') in 0.025724 seconds 
+  path: Assets/Mapa
+  artifactKey: Guid(30ef6cd5798e3904a90a8e6309d5644a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mapa using Guid(30ef6cd5798e3904a90a8e6309d5644a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1d1762301203ae99aeb1ef1a1702769') in 0.009539 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000030 seconds.
-  path: Assets/Mapa/Paredes/Pared_014.fbx
-  artifactKey: Guid(f43e11c2f65bc114197653ea81a61ee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Mapa/Paredes/Pared_014.fbx using Guid(f43e11c2f65bc114197653ea81a61ee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d97caf5eda0bdb2f15ed444c74becad') in 0.041564 seconds 
+  Time since last request: 0.000043 seconds.
+  path: Assets/Mapa/Piso/Piso_018.fbx
+  artifactKey: Guid(130e17e51fb5d7542bfec2ebc6f46699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mapa/Piso/Piso_018.fbx using Guid(130e17e51fb5d7542bfec2ebc6f46699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02b7bfc224fdba3b069d0484aad2d605') in 0.058685 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000041 seconds.
-  path: Assets/Mapa/Paredes/Pared_029.fbx
-  artifactKey: Guid(6c402a4e6af54f04d8d0f763af64da7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Mapa/Paredes/Pared_029.fbx using Guid(6c402a4e6af54f04d8d0f763af64da7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0041c62accd3cc6270246f5e8faf1aca') in 0.034544 seconds 
+  Time since last request: 0.000063 seconds.
+  path: Assets/Mapa/Piso/Piso_011.fbx
+  artifactKey: Guid(1e334dce46db2d84eb09aba3b5385228) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mapa/Piso/Piso_011.fbx using Guid(1e334dce46db2d84eb09aba3b5385228) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f15b5c960fe2ae7587ffa57e028181e4') in 0.047641 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000055 seconds.
-  path: Assets/Mapa/Paredes/Pared_007.fbx
-  artifactKey: Guid(3dd4700ec2fc50542b493f1a4e7fee5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Mapa/Paredes/Pared_007.fbx using Guid(3dd4700ec2fc50542b493f1a4e7fee5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f4409801a5d37f2a0762d80a566816f') in 0.050188 seconds 
+  path: Assets/Mapa/Piso/Piso_005.fbx
+  artifactKey: Guid(083b4aabc53f87e488791735bb657e26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mapa/Piso/Piso_005.fbx using Guid(083b4aabc53f87e488791735bb657e26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26214198377d9018d5ea7dedc0e30282') in 0.042758 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/Mapa/Paredes/Pared_022.fbx
-  artifactKey: Guid(2ca2fe7db47e51142943f965ce717ac6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Mapa/Paredes/Pared_022.fbx using Guid(2ca2fe7db47e51142943f965ce717ac6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd017e81ca2a6aad4631872719c5c777a') in 0.025282 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000031 seconds.
-  path: Assets/Mapa/Paredes/Pared_012.fbx
-  artifactKey: Guid(fcdcb86ff418d4a4eb8f1d30ab4ca0e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Mapa/Paredes/Pared_012.fbx using Guid(fcdcb86ff418d4a4eb8f1d30ab4ca0e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7179d36fe30e5e1b7a6d76c259c88df') in 0.032489 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000031 seconds.
-  path: Assets/Mapa/Paredes/Pared_003.fbx
-  artifactKey: Guid(9de2b028d6191d94a9a79e7b2b14005f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Mapa/Paredes/Pared_003.fbx using Guid(9de2b028d6191d94a9a79e7b2b14005f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27dace130ea29eb28c157dad648dbcbe') in 0.024307 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 7.565561 seconds.
-  path: Assets/Mapa/Piso/Piso_004.fbx
-  artifactKey: Guid(d1623fe502225cf4497a7aa090595b00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Mapa/Piso/Piso_004.fbx using Guid(d1623fe502225cf4497a7aa090595b00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2f3ccb25702cc5167ccdab44117c704') in 0.028012 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/Mapa/Piso/Piso_023.fbx
-  artifactKey: Guid(92d08b3ef69d89941bf005b3688dcc74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Mapa/Piso/Piso_023.fbx using Guid(92d08b3ef69d89941bf005b3688dcc74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1b7701dd3e52564594b24fdc48aa813') in 0.029828 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000031 seconds.
-  path: Assets/Mapa/Piso/Piso_006.fbx
-  artifactKey: Guid(b89dce7ca7dae094cadb100847753a58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Mapa/Piso/Piso_006.fbx using Guid(b89dce7ca7dae094cadb100847753a58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a2db00b017e70b0544c4da5b36c4c63') in 0.042788 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000041 seconds.
-  path: Assets/Mapa/Piso/Piso_015.fbx
-  artifactKey: Guid(2e274f12f2e70b84d823499a40951e1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Mapa/Piso/Piso_015.fbx using Guid(2e274f12f2e70b84d823499a40951e1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b405c5cc464ae72e6e0ac2c3e52309f3') in 0.039963 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000036 seconds.
-  path: Assets/Mapa/Piso/Piso_020.fbx
-  artifactKey: Guid(076a3b1532fbf1e4595ccf7187e2c0a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Mapa/Piso/Piso_020.fbx using Guid(076a3b1532fbf1e4595ccf7187e2c0a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47973352f9c0b6b4f3ff907cda9ede7a') in 0.056713 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000029 seconds.
-  path: Assets/Mapa/Piso/Piso_018.fbx
-  artifactKey: Guid(130e17e51fb5d7542bfec2ebc6f46699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Mapa/Piso/Piso_018.fbx using Guid(130e17e51fb5d7542bfec2ebc6f46699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efa2a162dd74724d19f17d5627efd06d') in 0.030481 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000032 seconds.
-  path: Assets/Mapa/Piso/Piso_011.fbx
-  artifactKey: Guid(1e334dce46db2d84eb09aba3b5385228) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Mapa/Piso/Piso_011.fbx using Guid(1e334dce46db2d84eb09aba3b5385228) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10415a6257fbf8c9f02e1df86ebb372a') in 0.023490 seconds 
-Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
-AssetImportWorker is now disconnected from the server
-Process exiting
-Exiting without the bug reporter. Application will terminate with return code 0
+  Time since last request: 227.948022 seconds.
+  path: Assets/Mapa/Piso/Piso_010.fbx
+  artifactKey: Guid(fbc1d0b4a73a2764e8733d4d66681639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mapa/Piso/Piso_010.fbx using Guid(fbc1d0b4a73a2764e8733d4d66681639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92074852ed8fa1629fc0c0801221a2a3') in 0.094887 seconds 
