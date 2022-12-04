@@ -264,3 +264,97 @@ Received Import Request.
   path: Assets/Mapa/Puertas/Puerta_52.fbx
   artifactKey: Guid(d5d2941224b14654ab6b466991daab59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Mapa/Puertas/Puerta_52.fbx using Guid(d5d2941224b14654ab6b466991daab59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a5f69c48d54afb9980a911d62a6e533') in 0.045338 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 29.383044 seconds.
+  path: Assets/Mapa/Columnas/Columna_003.fbx
+  artifactKey: Guid(bc87de2d4f85fd44e9600e88233a9bf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mapa/Columnas/Columna_003.fbx using Guid(bc87de2d4f85fd44e9600e88233a9bf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f592e3274bed1b85c9cdaccd82f145b7') in 0.083822 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Mapa/Columnas/Columna_005.fbx
+  artifactKey: Guid(98d77affa74ad724a914b5173a438d20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mapa/Columnas/Columna_005.fbx using Guid(98d77affa74ad724a914b5173a438d20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f499cb47ef554524c0f5ddfeb381dd0') in 0.049778 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 526.306522 seconds.
+  path: Assets/Mapa/Paredes/Pared_003.fbx
+  artifactKey: Guid(9de2b028d6191d94a9a79e7b2b14005f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mapa/Paredes/Pared_003.fbx using Guid(9de2b028d6191d94a9a79e7b2b14005f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fce7685abb1e3a75085b0a7815a62698') in 0.051398 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Mapa/Paredes/Pared_026.fbx
+  artifactKey: Guid(4b926b9f446293445a690bc72a3e3755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mapa/Paredes/Pared_026.fbx using Guid(4b926b9f446293445a690bc72a3e3755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a22d75d6a79ec8987217463b7d156cd3') in 0.054071 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Mapa/Paredes/Pared_027.fbx
+  artifactKey: Guid(9fbfd393c1336334eb26a273da362730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mapa/Paredes/Pared_027.fbx using Guid(9fbfd393c1336334eb26a273da362730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b67222e2345ba951c62a727e8c27805f') in 0.050990 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Mapa/Paredes/Pared_009.fbx
+  artifactKey: Guid(b33ed228fcd76144783a34dbc90b4132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mapa/Paredes/Pared_009.fbx using Guid(b33ed228fcd76144783a34dbc90b4132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8097d8e9313a31f019421a2e4d537554') in 0.067866 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Mapa/Paredes/Pared_010.fbx
+  artifactKey: Guid(0314811aa1ef1ae419fdb5ae535aad71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mapa/Paredes/Pared_010.fbx using Guid(0314811aa1ef1ae419fdb5ae535aad71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1f4dec342732b050d29129da26eafd2') in 0.067158 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Mapa/Paredes/Pared_024.fbx
+  artifactKey: Guid(f12b3eb9202783248a5bae88f4fb3092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mapa/Paredes/Pared_024.fbx using Guid(f12b3eb9202783248a5bae88f4fb3092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9992c18cae898aae5d502ee76f8f868') in 0.069478 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Mapa/Paredes/Pared_029.fbx
+  artifactKey: Guid(6c402a4e6af54f04d8d0f763af64da7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mapa/Paredes/Pared_029.fbx using Guid(6c402a4e6af54f04d8d0f763af64da7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdb2bf3a5b4d04c2d4fb058a41dcb594') in 0.054427 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/Mapa/Paredes/Pared_020.fbx
+  artifactKey: Guid(05899fe78cc83a548b6131fa7b17dbdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mapa/Paredes/Pared_020.fbx using Guid(05899fe78cc83a548b6131fa7b17dbdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f38289c6b20ece9322b8565348b195d') in 0.041723 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Mapa/Paredes/Pared_016.fbx
+  artifactKey: Guid(bfef2e381c329c74aa8ab2ed955f2131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mapa/Paredes/Pared_016.fbx using Guid(bfef2e381c329c74aa8ab2ed955f2131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c44f885909c4fce80147ef7d83c48a7b') in 0.045190 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Mapa/Paredes/Pared_019.fbx
+  artifactKey: Guid(84f6d6ff1a5a27a4f9ee4430f7ab81b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mapa/Paredes/Pared_019.fbx using Guid(84f6d6ff1a5a27a4f9ee4430f7ab81b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d77951c83b143c222651ccb8dc41733') in 0.043658 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Mapa/Paredes/Pared_025.fbx
+  artifactKey: Guid(2989d61c9f913394c9afc6429baadd22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mapa/Paredes/Pared_025.fbx using Guid(2989d61c9f913394c9afc6429baadd22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '346c46353f13984522dbf6723065c79a') in 0.057532 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/Mapa/Paredes/Pared_012.fbx
+  artifactKey: Guid(fcdcb86ff418d4a4eb8f1d30ab4ca0e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mapa/Paredes/Pared_012.fbx using Guid(fcdcb86ff418d4a4eb8f1d30ab4ca0e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c602513b5afbc683cb8d3d4babbdf9bb') in 0.049350 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Mapa/Paredes/Pared_028.fbx
+  artifactKey: Guid(d2b50a052494a4e43b98a6bd4be0b601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mapa/Paredes/Pared_028.fbx using Guid(d2b50a052494a4e43b98a6bd4be0b601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6ca897f414337bcfa98ca2fe6500158') in 0.050589 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

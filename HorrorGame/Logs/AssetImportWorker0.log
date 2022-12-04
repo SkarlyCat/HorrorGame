@@ -270,3 +270,19 @@ Received Import Request.
   path: Assets/Mapa/Puertas/Puerta_54.fbx
   artifactKey: Guid(66df5d74e96d7194a889a7fe1daa0274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Mapa/Puertas/Puerta_54.fbx using Guid(66df5d74e96d7194a889a7fe1daa0274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51cb63d111f99800cfba1eb0de423cbc') in 0.036154 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 29.341023 seconds.
+  path: Assets/Mapa/Columnas/Columna_002.fbx
+  artifactKey: Guid(90977e5e4acc16648a59d45be8161e21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mapa/Columnas/Columna_002.fbx using Guid(90977e5e4acc16648a59d45be8161e21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e347ef0e232cdcdb038e8de09c154fc') in 0.065401 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Mapa/Columnas/Columna_004.fbx
+  artifactKey: Guid(e79b8e8fe21e4c84f80f61efe139ff64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mapa/Columnas/Columna_004.fbx using Guid(e79b8e8fe21e4c84f80f61efe139ff64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d5743af1a6e559c711b9975fb8ff1f3') in 0.049171 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
