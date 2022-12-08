@@ -27,6 +27,18 @@ public class Codigo_Salud : MonoBehaviour
         ActualizarInterfaz();
     }
 
+
+    public void RecibirCura(float cura)
+    {
+        Salud += cura;
+
+        if(Salud> SaludMaxima)
+        {
+            Salud= SaludMaxima;
+        }
+    }
+
+
     public void RecibirDaño(float daño)
     {
         Salud -= daño;
